@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>it.allitude.mulesoft</groupId>
 		<artifactId>mule-parent-pom</artifactId>
-		<version>1.2.1</version>
+		<version>1.2.0</version>
 	</parent>
 	<groupId>1b267650-267e-49e4-9b6f-c428990c154a</groupId>
 	<artifactId>accounts-papi</artifactId>
